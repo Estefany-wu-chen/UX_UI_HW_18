@@ -24,9 +24,15 @@ ul{
     width:500px;
     margin:0 auto;
 }
+.mySkills{
+    width:50%;
+}
 .flexContainer{
     display:flex;
     width: 33%,33%,33%;
+}
+.myWork{
+    width:50%;
 }
 .gridcontainer{
     display:grid;
